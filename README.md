@@ -1,6 +1,6 @@
 # Snake Game
-pythonのturtleモジュールを使ったSnake Gameです。
-* 後ろ向きに進むことは出来ません
-* 壁、もしくは自分の体に当たった場合はゲームオーバーです
-* 一つ餌を食べるたびに10ポイント入ります
-* 蛇が成長していくにつれて、移動速度がはやくなります
+Snake Game using python's turtle module.
+* You can't go backwards
+* If you hit the wall or your own body, the game is over
+* Every time you eat one bait, you get 10 points
+* As the snake grows, it moves faster
